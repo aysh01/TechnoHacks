@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a href="https://www.codsoft.in/internships">
+  <a href="https://technohacks.co.in/">
   <img src="https://tse1.mm.bing.net/th?id=OIP.mPN0qDIeVxosJZGSZS7IJQHaHa&pid=Api" width="100"/>
   </a><br>
     <a href="https://ayssh.netlify.app">
